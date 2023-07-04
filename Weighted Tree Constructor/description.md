@@ -3,7 +3,7 @@
 ### Complexity: $O(nlogn)$
 
 ### Problem
-Given a set of weigts W contruct a binary tree where each leaf using exactly one of those weights while also minimalizing *external length* (EL) where $w(v)$ is the weight function and $d(v)$ is the distance from root to $v$.
+Given a set of weigths W contruct a binary tree where each leaf is given exactly one of those weights while also minimalizing *external length* (EL) where $w(v)$ is the weight function and $d(v)$ is the distance from root to $v$.
 
 $$ EL(T) = \sum_{v \in leaves(T)} w(v)d(v) $$
 
