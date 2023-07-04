@@ -1,6 +1,6 @@
 # Quickhull
 
-### Complexity: $\O(nlogn)$
+### Complexity: $O(nlogn)$
 
 ### Idea
 Divide the set of points into subsets byt triangulation.
